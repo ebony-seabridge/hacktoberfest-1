@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ebony](https://github.com/ebony-seabridge)
+
+- Place: Derbyshire, UK
+- Bio: Web Developer
+- GitHub: [ebony-seabridge](https://github.com/ebony-seabridge)
